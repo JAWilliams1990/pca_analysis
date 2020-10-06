@@ -1,17 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Mon Oct 21 18:23:13 2019
-
-@author: jameswilliams
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 13 14:30:40 2019
-
-@author: jameswilliams
+Author: James Williams
+Created: 06.10.2020
 """
 
 import os 
